@@ -1,0 +1,17 @@
+{
+  "name": "device #1",
+  "Device_prop": [
+    {
+      "type": "air quality",
+      "info_given": [
+        {
+          "bar": [
+            "Oxigen: 55% info",
+            "CO2: 30% danger",
+            "Other: 15% warning"
+          ]
+        }
+      ]
+    }
+  ]
+}
